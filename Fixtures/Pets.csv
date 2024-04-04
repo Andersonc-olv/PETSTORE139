@@ -1,0 +1,3 @@
+petId,categoryId,categoryName,petName,photoUrls,tagsId,tagsName
+4914772,1,dog,Bruce,,1;2,vacinado;castrado,available
+4924772,2,cat,Kinho,,1;3,vacinado;vermifugado,available
